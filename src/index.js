@@ -1,5 +1,5 @@
-import "./index.css";
-import logo from "./back.png";
+import("./index.css");
+import logo from "../logo/back.png";
 
 const img = new Image();
 img.classList.add("top-logo");
