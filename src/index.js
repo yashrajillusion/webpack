@@ -1,4 +1,4 @@
-import("./index.css");
+import "./index.css";
 import logo from "./back.png";
 
 const img = new Image();
